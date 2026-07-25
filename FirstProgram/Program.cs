@@ -13,7 +13,9 @@ namespace FirstProgram
 
         // StringBasics.Run();
 
-        ArrayBasics.Run();
+        // ArrayBasics.Run();
+
+        FunctionBasics.Run();
 
 
 
