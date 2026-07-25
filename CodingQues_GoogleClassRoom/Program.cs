@@ -1,4 +1,4 @@
-﻿namespace CalculatorProblems;
+namespace CalculatorProblems;
 
 class Program
 {
@@ -18,20 +18,54 @@ class Program
         //  AveragePCMMarks.Run();
         // KilometerToMiles.Run();
         // ProfitAndLoss.Run();
-        // PenDistribution.Run();
-        // CourseFeeDiscount.Run();
-        // EarthVolume.Run();
-        // UserKilometerToMiles.Run();
-        // UserCourseFeeDiscount.Run();
-        // HeightConverter.Run();
-        // BasicCalculator.Run();
-        // TriangleArea.Run();
-        // SquareSide.Run();
-        // FeetToYardsMiles.Run();
-        // TotalPurchasePrice.Run();
-       // MaximumHandshakes.Run();
+    //     PenDistribution.Run();
+    //     CourseFeeDiscount.Run();
+    //     EarthVolume.Run();
+    //     UserKilometerToMiles.Run();
+    //     UserCourseFeeDiscount.Run();
+    //     HeightConverter.Run();
+    //     BasicCalculator.Run();
+    //     TriangleArea.Run();
+    //     SquareSide.Run();
+    //     FeetToYardsMiles.Run();
+    //     TotalPurchasePrice.Run();
 
 
+    //    MaximumHandshakes.Run();
+        // DivisibleByFive.Run();
+        // SmallestOfThree.Run();
+        // LargestOfThree.Run();
+        // SumOfNaturalNumbers.Run();
+        // VotingEligibility.Run();
+        // CheckNumberSign.Run();
+        // SpringSeason.Run();
+        // RocketLaunchWhile.Run();
+        // RocketLaunchFor.Run();
+        // SumUntilZeroWhile.Run();
+        // SumUntilZeroOrNegative.Run();
+        // SumOfNaturalNumbersWhile.Run();
+        // SumOfNaturalNumbersFor.Run();
+        // FactorialWhile.Run();
+        // FactorialFor.Run();
+        // OddEvenNumbers.Run();
+        // EmployeeBonus.Run();
+        // MultiplicationTableSixToNine.Run();
 
+        // PrimeNumberCheck.Run();
+        // FizzBuzzFor.Run();
+        // FizzBuzzWhile.Run();
+        // BMICalculator.Run();
+        // YoungestAndTallestFriend.Run();
+        // GreatestFactor.Run();
+        // PowerOfNumber.Run();
+        // FindFactors.Run();
+        // MultiplesBelowHundred.Run();
+
+        // ArmstrongNumber.Run();
+        // CountDigits.Run();
+        // HarshadNumber.Run();
+        // AbundantNumber.Run();
+        // DayOfWeek.Run();
+        // CalculatorSwitch.Run();
     }
 }
