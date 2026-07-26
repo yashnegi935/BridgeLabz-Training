@@ -67,5 +67,29 @@ class Program
         // AbundantNumber.Run();
         // DayOfWeek.Run();
         // CalculatorSwitch.Run();
+
+
+        // EmployeeBonusArray.Run();
+        // YoungestAndTallestFriendArray.Run();
+        // LargestAndSecondLargestDigit.Run();
+        // DynamicLargestAndSecondLargestDigit.Run();
+        // ReverseNumberArray.Run();
+        // PersonBMICalculator.Run();
+        // PersonBMI2DArray.Run();
+        // StudentGradeCalculator.Run();
+        // StudentGrade2DArray.Run();
+        // DigitFrequency.Run();
+
+   
+        // StudentVotingEligibility.Run();
+        // NumberClassifierArray.Run();
+        // MultiplicationTableArray.Run();
+        // SumUntilZeroOrLimit.Run();
+        // MultiplicationTableSixToNineArray.Run();
+        // FootballTeamMeanHeight.Run();
+        // OddEvenArraySplitter.Run();
+        // FindFactorsDynamicArray.Run();
+        // MatrixToSingleArray.Run();
+        // FizzBuzzArray.Run();
     }
 }
