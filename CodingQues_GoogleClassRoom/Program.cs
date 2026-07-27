@@ -91,5 +91,34 @@ class Program
         // FindFactorsDynamicArray.Run();
         // MatrixToSingleArray.Run();
         // FizzBuzzArray.Run();
+
+        // Day 3 Practice Problems
+        // SimpleInterestCalculator.Run();
+        // StudentHandshakes.Run();
+        // MaxHandshakes.Run();
+        // AthleteRounds.Run();
+        // NumberSignCheck.Run();
+        // SpringSeasonCheck.Run();
+        // SumNaturalNumbers.Run();
+        // FindSmallestLargest.Run();
+        // RemainderQuotient.Run();
+        // ChocolateDivider.Run();
+        // WindChillCalculator.Run();
+        // TrigonometricCalculator.Run();
+
+   
+        // FootballTeamHeight.Run();
+        // NumberCheckerQ2.Run();
+        // NumberCheckerQ3.Run();
+        // NumberCheckerQ4.Run();
+        // NumberCheckerQ5.Run();
+        // NumberCheckerQ6.Run();
+        // OtpGenerator.Run();
+        // MonthlyCalendar.Run();
+        // EuclideanDistance.Run();
+        // CollinearPoints.Run();
+        // EmployeeBonusCalc.Run();
+        // StudentScorecard.Run();
+        // MatrixOperations.Run();
     }
 }
