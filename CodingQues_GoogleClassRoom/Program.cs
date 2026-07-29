@@ -120,5 +120,21 @@ class Program
         // EmployeeBonusCalc.Run();
         // StudentScorecard.Run();
         // MatrixOperations.Run();
+
+        // Problem1.Run();
+        // Problem2.Run();
+        // Problem3.Run();
+        // Problem4.Run();
+
+    
+        // NumberGuessingGame.Run();
+        // MaxOfThree.Run();
+        // PrimeChecker.Run();
+        FibonacciGenerator.Run();
+        // PalindromeChecker.Run();
+        // FactorialRecursion.Run();
+        // GcdLcmCalculator.Run();
+        // TemperatureConverter.Run();
+        // ModularCalculator.Run();
     }
 }
