@@ -130,11 +130,15 @@ class Program
         // NumberGuessingGame.Run();
         // MaxOfThree.Run();
         // PrimeChecker.Run();
-        FibonacciGenerator.Run();
+    //    FibonacciGenerator.Run(); 
         // PalindromeChecker.Run();
         // FactorialRecursion.Run();
         // GcdLcmCalculator.Run();
         // TemperatureConverter.Run();
         // ModularCalculator.Run();
+
+        //BookDetails.Run();
+
+
     }
 }
