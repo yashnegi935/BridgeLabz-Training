@@ -8,10 +8,10 @@ public class StringBasics
     public static void Run()
     {
         Console.Write("Enter your name: ");
-        string? name = Console.ReadLine();
+        string name = Console.ReadLine();
 
         Console.Write("Enter your age: ");
-        string? ageInput = Console.ReadLine();
+        string ageInput = Console.ReadLine();
 
         int age = Convert.ToInt32(ageInput);
 

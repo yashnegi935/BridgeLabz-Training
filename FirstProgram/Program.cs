@@ -15,8 +15,11 @@ namespace FirstProgram
 
         // ArrayBasics.Run();
 
-        FunctionBasics.Run();
+        // FunctionBasics.Run();
 
+        // First.Run();  // for exception handling
+
+        Bank.Run();
 
 
         }
