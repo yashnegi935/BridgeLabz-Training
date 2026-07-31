@@ -137,7 +137,11 @@ class Program
         // TemperatureConverter.Run();
         // ModularCalculator.Run();
 
-        //BookDetails.Run();
+        // BookDetails.Run();
+        // BankAccountManagement.Run();
+        // BookLibrarySystem.Run();
+        // CarRentalSystem.Run();
+        // CircleComputation.Run();
 
 
     }
