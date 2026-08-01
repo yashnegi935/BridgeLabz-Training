@@ -18,8 +18,13 @@ namespace FirstProgram
         // FunctionBasics.Run();
 
         // First.Run();  // for exception handling
+        // Bank.Run();
+        // CustomException.Run();
 
-        Bank.Run();
+        // OOPS_Basics.Run();
+        // PrivateConstructor.Run();
+        // StaticConstructor.Run();
+        
 
 
         }
