@@ -1,10 +1,12 @@
 using System;
 namespace FirstProgram
 {
-    class Person
+       class Person
     {
         public static string name;
         public static string age;
+
+        public static int height;
 
         public Person()
         {
@@ -31,6 +33,10 @@ namespace FirstProgram
         {
             Person p=new Person();
             Person.Details();
+
+         
+
+
             
         }
     }
