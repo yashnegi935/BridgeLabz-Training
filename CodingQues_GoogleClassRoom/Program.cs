@@ -137,12 +137,48 @@ class Program
         // TemperatureConverter.Run();
         // ModularCalculator.Run();
 
-        // BookDetails.Run();
-        // BankAccountManagement.Run();
-        // BookLibrarySystem.Run();
-        // CarRentalSystem.Run();
+        // Level 1 OOPS Practice Problems
+        // EmployeeDetails.Run();
         // CircleComputation.Run();
+        // BookDetails.Run();
+        // HotelBookingSystem.Run();
+        // LibraryBookSystem.Run();
+        // CarRentalSystem.Run();
+        // ProductInventory.Run();
+        // CourseManagement.Run();
+        // VehicleRegistration.Run();
+        // UniversityManagement.Run();
+        // BookLibrarySystem.Run();
+        // BankAccountManagement.Run();
+
+        // OOP Practice Problems #2
+        // LibraryBooksAggregation.Run();
+        // BankCustomerAssociation.Run();
+        // CompanyDepartmentComposition.Run();
+        // SchoolStudentCourse.Run();
+        // UniversityFacultyDepartment.Run();
+        // HospitalDoctorPatient.Run();
+        // EcommercePlatform.Run();
+        // UniversityManagementSystem.Run();
+        // SchoolResultsApplication.Run();
+        // GroceryStoreBillApplication.Run();
+
+        // Polymorphism & Inheritance Problems
+        // AnimalHierarchy.Run();
+        // EmployeeManagement.Run();
+        // VehicleTransportSystem.Run();
+        // BookAuthorSingleInheritance.Run();
+        // SmartHomeDevice.Run();
+        // OrderMultilevelInheritance.Run();
+        // CourseMultilevelInheritance.Run();
+        // BankAccountHierarchical.Run();
+        // SchoolRoleHierarchical.Run();
+        // RestaurantHybridInheritance.Run();
+        // VehicleHybridInheritance.Run();
 
 
+
+
+        
     }
 }
