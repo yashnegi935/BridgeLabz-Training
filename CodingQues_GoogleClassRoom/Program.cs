@@ -176,9 +176,14 @@ class Program
         // RestaurantHybridInheritance.Run();
         // VehicleHybridInheritance.Run();
 
-
-
-
-        
+        // Abstract Classes & Interfaces Practice Problems
+        // EmployeeManagementSystem.Run();
+        // EcommercePlatformSystem.Run();
+        // VehicleRentalSystem.Run();
+        // BankingSystemAbstract.Run();
+        // LibraryManagementSystem.Run();
+        // OnlineFoodDeliverySystem.Run();
+        // HospitalPatientManagement.Run();
+        // RideHailingApplication.Run();
     }
 }
