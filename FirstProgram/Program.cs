@@ -25,8 +25,12 @@ namespace FirstProgram
         // PrivateConstructor.Run();
         // StaticConstructor.Run();
         // MethodHiding.Run();
-           MethodOverriding.Run();
+        // MethodOverriding.Run();
         
+        // AbstractClass.Run();
+        // Employ.Run();
+
+        InterfaceImp.Run();
 
 
         }
