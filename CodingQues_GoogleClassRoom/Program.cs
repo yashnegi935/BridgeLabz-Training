@@ -185,5 +185,18 @@ class Program
         // OnlineFoodDeliverySystem.Run();
         // HospitalPatientManagement.Run();
         // RideHailingApplication.Run();
+
+        // LinkedList Practice Problems
+        // StudentRecordLinkedList.Run();
+        // MovieManagementLinkedList.Run();
+        // TaskSchedulerCircularLinkedList.Run();
+        // InventoryManagementLinkedList.Run();
+        // LibraryManagementDoublyLinkedList.Run();
+        // RoundRobinSchedulerCircularLinkedList.Run();
+        // SocialMediaFriendLinkedList.Run();
+        // TextEditorUndoRedoLinkedList.Run();
+        // OnlineTicketReservationCircularLinkedList.Run();
+
+        
     }
 }
