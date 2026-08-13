@@ -197,6 +197,17 @@ class Program
         // TextEditorUndoRedoLinkedList.Run();
         // OnlineTicketReservationCircularLinkedList.Run();
 
+        // Stacks, Queues & Hash Maps Practice Problems
+        // QueueUsingStacks.Run();
+        // SortStackRecursion.Run();
+        // StockSpanProblem.Run();
+        // SlidingWindowMaximum.Run();
+        // CircularTourProblem.Run();
+        // SubarraysWithZeroSum.Run();
+        // PairWithGivenSum.Run();
+        // LongestConsecutiveSequence.Run();
+        // CustomHashMapImplementation.Run();
+        // TwoSumProblem.Run();
         
     }
 }
