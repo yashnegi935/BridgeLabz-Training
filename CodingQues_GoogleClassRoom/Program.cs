@@ -208,6 +208,14 @@ class Program
         // LongestConsecutiveSequence.Run();
         // CustomHashMapImplementation.Run();
         // TwoSumProblem.Run();
-        
+
+        // Sorting Algorithm Problems
+        // BubbleSortStudentMarks.Run();
+        // InsertionSortEmployeeIds.Run();
+        // MergeSortBookPrices.Run();
+        // QuickSortProductPrices.Run();
+        // SelectionSortExamScores.Run();
+        // HeapSortSalaryDemands.Run();
+        // CountingSortStudentAges.Run();
     }
 }
