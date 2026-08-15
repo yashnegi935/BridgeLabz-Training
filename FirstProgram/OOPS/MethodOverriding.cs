@@ -10,7 +10,7 @@ namespace FirstProgram
     }
     class Child : Parent
     {
-        public virtual void Show()
+        public override void Show()
         {
              Console.WriteLine("Hello From child");
         }

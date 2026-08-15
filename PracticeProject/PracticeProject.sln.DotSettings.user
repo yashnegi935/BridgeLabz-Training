@@ -1,0 +1,9 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b1a69fb2_002Dc19c_002D4407_002D899c_002D07102461be69/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="IsPrime_WhenNumberIsNotPrime_ReturnsFalse" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Project Location="/Users/yashnegi/Desktop/PracticeProject/PrimeChecker.Tests" Presentation="&amp;lt;PrimeChecker.Tests&amp;gt;" /&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=bf8a3028_002Db01e_002D42f9_002Db55d_002Ded23b7ff708f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="IsPrime_WhenNumberIsPrime_ReturnsTrue" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::9CE11B8B-0899-4E11-9E6A-0B2E0FF71932::net10.0::PrimeChecker.Tests.PrimeTests.IsPrime_WhenNumberIsPrime_ReturnsTrue&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

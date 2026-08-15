@@ -80,7 +80,7 @@ namespace FirstProgram
             prescription.Treatments.Add(medicine);
             appointment.Prescription = prescription;
 
-         Console.WriteLine(hospital.HName);
+        Console.WriteLine(hospital.HName);
         Console.WriteLine(department.DeparName);
         Console.WriteLine(doctor.DName);
         Console.WriteLine(patient.PName);
