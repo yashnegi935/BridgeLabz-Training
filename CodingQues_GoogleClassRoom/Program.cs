@@ -217,5 +217,24 @@ class Program
         // SelectionSortExamScores.Run();
         // HeapSortSalaryDemands.Run();
         // CountingSortStudentAges.Run();
+
+        // StringBuilder & StreamReader Problems
+        // StringBuilderReverse.Run();
+        // StringBuilderRemoveDuplicates.Run();
+        // StringBuilderConcat.Run();
+        // StringBuilderPerformance.Run();
+        // StreamReaderReadLine.Run();
+        // StreamReaderWordCount.Run();
+        // StreamReaderByteStream.Run();
+        // StreamReaderConsoleToFile.Run();
+
+        // Linear & Binary Search Problems
+        // LinearSearchFirstNegative.Run();
+        // LinearSearchSentenceWord.Run();
+        // BinarySearchRotationPoint.Run();
+        // BinarySearchPeakElement.Run();
+        // BinarySearch2DMatrix.Run();
+        // BinarySearchFirstLastOccurrence.Run();
+        // LinearBinarySearchChallenge.Run();
     }
 }
