@@ -1,0 +1,11 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=bf8a3028_002Db01e_002D42f9_002Db55d_002Ded23b7ff708f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="IsPrime_WhenNumberIsPrime_ReturnsTrue" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::3F1CC33A-5670-45C6-A921-1994ABFA3A03::net10.0::Calculator.Tests.CalculatorTests.addCheck&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::0961BFCA-C2B6-4F7A-A9EE-66DC6C0C9ADD::net10.0::TicketManagerTests.TicketManagerTests.CheckAddTicket&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::0961BFCA-C2B6-4F7A-A9EE-66DC6C0C9ADD::net10.0::TicketManagerTests.TicketManagerTests.CheckEmail&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::0961BFCA-C2B6-4F7A-A9EE-66DC6C0C9ADD::net10.0::TicketManagerTests.TicketManagerTests.CheckId&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::4182CA1C-5F85-4159-AC88-99DBB9839FA4::net10.0::InventoryTests.InventoryTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
