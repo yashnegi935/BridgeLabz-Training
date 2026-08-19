@@ -1,3 +1,5 @@
+using System.Text;
+
 namespace CalculatorProblems;
 
 public class StreamReaderConsoleToFile
@@ -24,7 +26,8 @@ public class StreamReaderConsoleToFile
         Console.WriteLine($"Data written to: {tempPath}");
         Console.WriteLine("Reading written file content:");
 
-        using (StreamReader reader = new StreamReader(tempPath, Encoding.UTF8))
+        using (FileStream fs = new FileStream(tempPath, FileMode.Open, FileAccess.Read))
+        using (StreamReader reader = new StreamReader(fs, Encoding.UTF8))
         {
             Console.WriteLine(reader.ReadToEnd());
         }

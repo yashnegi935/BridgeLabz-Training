@@ -1,3 +1,5 @@
+using System.Text;
+
 namespace CalculatorProblems;
 
 public class StringBuilderRemoveDuplicates

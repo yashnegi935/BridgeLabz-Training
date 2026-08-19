@@ -236,5 +236,12 @@ class Program
         // BinarySearch2DMatrix.Run();
         // BinarySearchFirstLastOccurrence.Run();
         // LinearBinarySearchChallenge.Run();
+
+        // DSA Practice & Big O Performance Analysis Problems
+        // SearchDatasetPerformance.Run();
+        // SortingPerformanceComparison.Run();
+        // StringConcatPerformanceComparison.Run();
+        // FileReadingPerformanceComparison.Run();
+        // FibonacciPerformanceComparison.Run();
     }
 }
